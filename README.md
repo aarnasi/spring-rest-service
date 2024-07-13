@@ -1,2 +1,4 @@
 # spring-rest-service
 This project showcases a simple yet essential example of a RESTful API endpoint that returns a “Hello World!” message. The application is containerized using Docker, providing an isolated and consistent environment for deployment.
+
+[![main](https://github.com/aarnasi/spring-rest-service/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/aarnasi/spring-rest-service/actions/workflows/gradle.yml) [![dev](https://github.com/aarnasi/spring-rest-service/actions/workflows/gradle.yml/badge.svg?branch=dev)](https://github.com/aarnasi/spring-rest-service/actions/workflows/gradle.yml)
